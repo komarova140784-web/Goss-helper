@@ -2709,7 +2709,7 @@ function check_update()
     os.remove(path)
     
     -- URL для скачивания нового файла
-    local url = 'https://raw.githubusercontent.com/komarova140784-web/Goss-helper/main/gosshelper.lu'
+    local url = 'https://raw.githubusercontent.com/komarova140784-web/Goss-helper/main/gosshelper.lua'
     
     if isMonetLoader() then
         downloadToFile(url, path, function(type, pos, total_size)
