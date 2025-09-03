@@ -1,4 +1,4 @@
-# Goss-helper 
+# Goss-helper
 Приветствие
 Здравствуйте, уважаемые пользователи GOSS Helper!
 
