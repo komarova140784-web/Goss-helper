@@ -2671,7 +2671,7 @@ function argbToRgbNormalized(argb)
     return {normalizedR, normalizedG, normalizedB}
 end
 local servers = {
-	{name = 'Phoenix', number = '01'},
+	{name = 'Phoe', number = '01'},
 	{name = 'Tucson', number = '02'},
 	{name = 'Scottdale', number = '03'},
 	{name = 'Chandler', number = '04'},
