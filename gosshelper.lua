@@ -63,7 +63,7 @@ local default_settings = {
 	},
 	player_info = {
 		name_surname = '',
-		accent = '[Француский акцент]:',
+		accent = '[Итольянский акцент]:',
 		fraction = 'автоматом как поставите тэг',
 		fraction_tag = 'Установите сами',
 		fraction_rank = 'Замените сами в Goss Helper/Settings.json',
